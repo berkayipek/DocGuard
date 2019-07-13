@@ -67,6 +67,7 @@ namespace DocGuard_Audit
 
             bool oldWord = false;
             bool oldExcel = false;
+            bool isMacro = false;
 
             bool is_OpenXML = false;
 
@@ -169,6 +170,7 @@ namespace DocGuard_Audit
 
             if (findHideInGUI || findUnviewableVBA || findRandomName || findBlacklistApiUsage || findObfuscation)
             {
+                isMacro = true;
                 // Read project stream as string
                 string projectStreamString = System.Text.Encoding.UTF8.GetString(projectStream);
 
@@ -250,7 +252,7 @@ namespace DocGuard_Audit
                     }
                 }
 
-                if (Infos.blaclistApi || Infos.guiHide || Infos.randomName || Infos.unViewable)
+                if (Infos.blaclistApi || Infos.guiHide || Infos.randomName || Infos.unViewable || isMacro)
                 {
                     byte[] streamBytes = { };
 
