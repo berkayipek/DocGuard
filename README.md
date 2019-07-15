@@ -2,7 +2,7 @@
 [![Stars](https://img.shields.io/github/stars/SteAmeR/DocGuard.svg)]()
 [![Issue](https://img.shields.io/github/issues/SteAmeR/DocGuard.svg)](https://github.com/SteAmeR/DocGuard/issues)
 
-![Logo](https://raw.githubusercontent.com/SteAmeR/DocGuard/master/images/DocGuard_Logo.png)
+![Logo](https://raw.githubusercontent.com/SteAmeR/DocGuard/master/images/DocGuard_Logo_Small.png)
 
 # DocGuard Document Analyzer Solution Kit
 
