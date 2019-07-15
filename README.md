@@ -51,3 +51,11 @@ These components are as follows;
 * DocGuard FS Filter-Driver
 
 * PDF, EXE, Php, Asp, Jsp support for another malicious file base attack types
+
+## Third Party Credits
+
+* [OpenMCDF](https://github.com/ironfede/openmcdf) to play with OLE components on DocGuard_Audit
+* [Kavod](https://github.com/rossknudsen/Kavod.Vba.Compression) compress/decompress stuffs on VBA things
+* [SharpShell](https://github.com/dwmkerr/sharpshell) ContextMenuHandler for DocGuard_ShellExt
+* [StrongNamer](https://github.com/dsplaisted/strongnamer) build helpers for DocGuard_ShellExt
+
