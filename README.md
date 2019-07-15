@@ -1,8 +1,9 @@
 [![License: GNU ](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![Release](https://img.shields.io/github/release-pre/steamer/docguard.svg)](https://github.com/SteAmeR/DocGuard/releases/tag/1.0)
 [![Stars](https://img.shields.io/github/stars/SteAmeR/DocGuard.svg)]()
 [![Issue](https://img.shields.io/github/issues/SteAmeR/DocGuard.svg)](https://github.com/SteAmeR/DocGuard/issues)
 
-![Logo](https://raw.githubusercontent.com/SteAmeR/DocGuard/master/images/DocGuard_Logo.png)
+![Logo](https://raw.githubusercontent.com/SteAmeR/DocGuard/master/images/DocGuard_Logo_Small.png)
 
 # DocGuard Document Analyzer Solution Kit
 
