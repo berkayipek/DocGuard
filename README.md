@@ -1,5 +1,7 @@
 [![License: GNU ](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
+![Logo](https://raw.githubusercontent.com/SteAmeR/DocGuard/master/images/DocGuard_Logo.png)
+
 # DocGuard Document Analyzer Solution Kit
 
 ## Overview
