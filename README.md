@@ -12,6 +12,8 @@ DocGuard started as an educational project that aims to teach the Windows User-M
 
 Since the project was developed for educational purposes, I wanted to have a comprehensive solution that covers a lot of Office and Windows capabilities while design phase. Project consists of one main class and also six module which some of them are Add-Ons, Web and Windows Service. 
 
+I'm sure this project has dozens of bugs that need fixing. However for now they have to wait. Me and other participants (I hope :) will continue to add new features and bug fix to/for this project as long as we have the opportunity. 
+
 [![DocGuard_Excel(https://raw.githubusercontent.com/SteAmeR/DocGuard/master/images/DocGuard_Excel_small.jpg)](https://raw.githubusercontent.com/SteAmeR/DocGuard/master/images/DocGuard_Excel_big.jpg)
 
 ## General features
