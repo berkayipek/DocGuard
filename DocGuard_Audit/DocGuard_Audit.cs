@@ -177,7 +177,7 @@ namespace DocGuard_Audit
                 // Find all VBA modules in current file
                 List<ModuleInformation> vbaModules = ParseModulesFromDirStream(dirStream);
 
-                List<RootModuleInformation> rootModules = ParseModulesFromRoot(cf);
+                // List<RootModuleInformation> rootModules = ParseModulesFromRoot(cf);
 
                 if (findBlacklistApiUsage)
                 {
@@ -355,7 +355,7 @@ namespace DocGuard_Audit
             Blacklist[2] = "shell";
             Blacklist[3] = "WriteProcessMemory";
             Blacklist[4] = "CreateRemoteThread";
-            Blacklist[5] = "AdjustPrivilege";
+            Blacklist[5] = "CreateObject";
             Blacklist[6] = "=MSEXCEL";
             Blacklist[7] = "CreateThread";
             Blacklist[8] = "cmd\\.exe";
